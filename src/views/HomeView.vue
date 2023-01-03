@@ -24,7 +24,7 @@
             <th class="text-center"><i class="fa-regular fa-circle text-[14px]"></i></th>
             <th class="">Name</th>
             <th class="">Email</th>
-            <th class=" text-right">Action</th>
+            <th class=" text-right pr-3">Action</th>
           </tr>
         </thead>
         <tbody>
@@ -32,110 +32,39 @@
             <th class="py-2 text-center"><i class="fa-regular fa-circle text-[14px]"></i></th>
             <td>Kh Muhib</td>
             <td>nuhib@gmail.com</td>
-            <td class="text-right"><i class="fa-solid fa-ellipsis"></i></td>
+            <td class="text-right pr-3"><i class="fa-solid fa-ellipsis"></i></td>
           </tr>
           <tr class="h-[50px]">
             <th class="py-2 text-center"><i class="fa-regular fa-circle text-[14px]"></i></th>
             <td>Md Rezwan</td>
             <td>rezwan@gmail.com</td>
-            <td class="text-right"><i class="fa-solid fa-ellipsis"></i></td>
+            <td class="text-right pr-3"><i class="fa-solid fa-ellipsis"></i></td>
           </tr>
           <tr class="h-[50px]">
             <th class="py-2 text-center"><i class="fa-regular fa-circle text-[14px]"></i></th>
             <td>Md Khokon</td>
             <td>khokon@gmail.com</td>
-            <td class="text-right"><i class="fa-solid fa-ellipsis"></i></td>
+            <td class="text-right pr-3"><i class="fa-solid fa-ellipsis"></i></td>
           </tr>
           <tr class="h-[50px]">
             <th class="py-2 text-center"><i class="fa-regular fa-circle text-[14px]"></i></th>
             <td>Kh Muhib</td>
             <td>nuhib@gmail.com</td>
-            <td class="text-right"><i class="fa-solid fa-ellipsis"></i></td>
+            <td class="text-right pr-3"><i class="fa-solid fa-ellipsis"></i></td>
           </tr>
           <tr class="h-[50px]">
             <th class="py-2 text-center"><i class="fa-regular fa-circle text-[14px]"></i></th>
             <td>Md Rezwan</td>
             <td>rezwan@gmail.com</td>
-            <td class="text-right"><i class="fa-solid fa-ellipsis"></i></td>
+            <td class="text-right pr-3"><i class="fa-solid fa-ellipsis"></i></td>
           </tr>
           <tr class="h-[50px]">
             <th class="py-2 text-center"><i class="fa-regular fa-circle text-[14px]"></i></th>
             <td>Md Khokon</td>
             <td>khokon@gmail.com</td>
-            <td class="text-right"><i class="fa-solid fa-ellipsis"></i></td>
+            <td class="text-right pr-3"><i class="fa-solid fa-ellipsis"></i></td>
           </tr>
-          <tr class="h-[50px]">
-            <th class="py-2 text-center"><i class="fa-regular fa-circle text-[14px]"></i></th>
-            <td>Kh Muhib</td>
-            <td>nuhib@gmail.com</td>
-            <td class="text-right"><i class="fa-solid fa-ellipsis"></i></td>
-          </tr>
-          <tr class="h-[50px]">
-            <th class="py-2 text-center"><i class="fa-regular fa-circle text-[14px]"></i></th>
-            <td>Md Rezwan</td>
-            <td>rezwan@gmail.com</td>
-            <td class="text-right"><i class="fa-solid fa-ellipsis"></i></td>
-          </tr>
-          <tr class="h-[50px]">
-            <th class="py-2 text-center"><i class="fa-regular fa-circle text-[14px]"></i></th>
-            <td>Md Khokon</td>
-            <td>khokon@gmail.com</td>
-            <td class="text-right"><i class="fa-solid fa-ellipsis"></i></td>
-          </tr>
-          <tr class="h-[50px]">
-            <th class="py-2 text-center"><i class="fa-regular fa-circle text-[14px]"></i></th>
-            <td>Kh Muhib</td>
-            <td>nuhib@gmail.com</td>
-            <td class="text-right"><i class="fa-solid fa-ellipsis"></i></td>
-          </tr>
-          <tr class="h-[50px]">
-            <th class="py-2 text-center"><i class="fa-regular fa-circle text-[14px]"></i></th>
-            <td>Md Rezwan</td>
-            <td>rezwan@gmail.com</td>
-            <td class="text-right"><i class="fa-solid fa-ellipsis"></i></td>
-          </tr>
-          <tr class="h-[50px]">
-            <th class="py-2 text-center"><i class="fa-regular fa-circle text-[14px]"></i></th>
-            <td>Md Khokon</td>
-            <td>khokon@gmail.com</td>
-            <td class="text-right"><i class="fa-solid fa-ellipsis"></i></td>
-          </tr>
-          <tr class="h-[50px]">
-            <th class="py-2 text-center"><i class="fa-regular fa-circle text-[14px]"></i></th>
-            <td>Kh Muhib</td>
-            <td>nuhib@gmail.com</td>
-            <td class="text-right"><i class="fa-solid fa-ellipsis"></i></td>
-          </tr>
-          <tr class="h-[50px]">
-            <th class="py-2 text-center"><i class="fa-regular fa-circle text-[14px]"></i></th>
-            <td>Md Rezwan</td>
-            <td>rezwan@gmail.com</td>
-            <td class="text-right"><i class="fa-solid fa-ellipsis"></i></td>
-          </tr>
-          <tr class="h-[50px]">
-            <th class="py-2 text-center"><i class="fa-regular fa-circle text-[14px]"></i></th>
-            <td>Md Khokon</td>
-            <td>khokon@gmail.com</td>
-            <td class="text-right"><i class="fa-solid fa-ellipsis"></i></td>
-          </tr>
-          <tr class="h-[50px]">
-            <th class="py-2 text-center"><i class="fa-regular fa-circle text-[14px]"></i></th>
-            <td>Kh Muhib</td>
-            <td>nuhib@gmail.com</td>
-            <td class="text-right"><i class="fa-solid fa-ellipsis"></i></td>
-          </tr>
-          <tr class="h-[50px]">
-            <th class="py-2 text-center"><i class="fa-regular fa-circle text-[14px]"></i></th>
-            <td>Md Rezwan</td>
-            <td>rezwan@gmail.com</td>
-            <td class="text-right"><i class="fa-solid fa-ellipsis"></i></td>
-          </tr>
-          <tr class="h-[50px]">
-            <th class="py-2 text-center"><i class="fa-regular fa-circle text-[14px]"></i></th>
-            <td>Md Khokon</td>
-            <td>khokon@gmail.com</td>
-            <td class="text-right"><i class="fa-solid fa-ellipsis"></i></td>
-          </tr>
+          
         </tbody>
       </table>
     </div>
