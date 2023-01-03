@@ -1,0 +1,27 @@
+<template>
+
+
+
+
+
+</template>
+
+
+<script>
+import { RouterView } from 'vue-router';
+import Navbar from './../components/Navbar.vue';
+
+export default {
+    name: "LayoutOne",
+    components: {
+        Navbar,
+        RouterView
+    }
+
+}
+
+</script>
+
+<style scoped>
+
+</style>
