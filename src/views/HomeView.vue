@@ -1,5 +1,65 @@
 <template>
   <div class="flex flex-col gap-y-3 py-3">
+
+    <div class="grid md:grid-cols-2 lg:grid-cols-4 sm:grid-cols-2 grid-cols-1 gap-x-5 gap-y-10 py-3">
+      <div class="bg-white rounded-md shadow-md">
+        <div class="flex justify-between items-center text-right border-b px-3 py-4">
+          <div class="h-[60px] w-[60px] bg-[#3BA0F2] rounded-md mt-[-80px] flex justify-center items-center shadow-xl">
+            <i class="fa-solid fa-compass text-[28px] text-white"></i>
+          </div>
+          <div class="">
+            <p class="text-[#899AA2]">Today's Money</p>
+            <h1 class="text-[26px] font-bold">$53k</h1>
+          </div>
+        </div>
+        <div class="px-3 py-3">
+          <h3 class="text-[20px]"><span class="text-[#4CAF65] font-bold">+55% </span> than last week</h3>
+        </div>
+      </div>
+      <div class="bg-white rounded-md shadow-md">
+        <div class="flex justify-between items-center text-right border-b px-3 py-4">
+          <div class="h-[60px] w-[60px] bg-[#E83975] rounded-md mt-[-80px] flex justify-center items-center shadow-xl">
+            <i class="fa-solid fa-mars-double text-[28px] text-white"></i>
+          </div>
+          <div class="">
+            <p class="text-[#899AA2]">Today's Money</p>
+            <h1 class="text-[26px] font-bold">$53k</h1>
+          </div>
+        </div>
+        <div class="px-3 py-3">
+          <h3 class="text-[20px]"><span class="text-[#4CAF65] font-bold">+55% </span> than last week</h3>
+        </div>
+      </div>
+      <div class="bg-white rounded-md shadow-md">
+        <div class="flex justify-between items-center text-right border-b px-3 py-4">
+          <div class="h-[60px] w-[60px] bg-[#4CA750] rounded-md mt-[-80px] flex justify-center items-center shadow-xl">
+            <i class="fa-solid fa-heart-circle-minus text-[28px] text-white"></i>
+          </div>
+          <div class="">
+            <p class="text-[#899AA2]">Today's Money</p>
+            <h1 class="text-[26px] font-bold">$53k</h1>
+          </div>
+        </div>
+        <div class="px-3 py-3">
+          <h3 class="text-[20px]"><span class="text-[#4CAF65] font-bold">+55% </span> than last week</h3>
+        </div>
+      </div>
+      <div class="bg-white rounded-md shadow-md">
+        <div class="flex justify-between items-center text-right border-b px-3 py-4">
+          <div class="h-[60px] w-[60px] bg-[#FD9B14] rounded-md mt-[-80px] flex justify-center items-center shadow-xl">
+            <i class="fa-solid fa-compass text-[28px] text-white"></i>
+          </div>
+          <div class="">
+            <p class="text-[#899AA2]">Today's Money</p>
+            <h1 class="text-[26px] font-bold">$53k</h1>
+          </div>
+        </div>
+        <div class="px-3 py-3">
+          <h3 class="text-[20px]"><span class="text-[#4CAF65] font-bold">+55% </span> than last week</h3>
+        </div>
+      </div>
+    </div>
+
     <div class="flex justify-between items-center">
       <div class="">
         <h2 class="text-[22px]">Products</h2>
@@ -36,7 +96,7 @@
             <td>Kh Muhib</td>
             <td class="text-right pr-3"><i class="fa-solid fa-ellipsis"></i></td>
           </tr>
-          
+
         </tbody>
       </table>
     </div>
