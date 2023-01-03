@@ -1,5 +1,5 @@
 <template>
-  <div class="px-3 flex flex-col gap-y-3 py-3">
+  <div class="flex flex-col gap-y-3 py-3">
     <div class="flex justify-between items-center">
       <div class="">
         <h2 class="text-[22px]">Products</h2>
@@ -17,51 +17,23 @@
       <button class="shadow-sm px-3 py-1 border rounded-md"><i class="fa-solid fa-upload"></i> Import</button>
     </div>
 
-    <div class="bg-white">
-      <table class="w-full bg-red-100]">
+    <div class="bg-white w-full overflow-hidden rounded-md">
+      <table class="w-full overflow-auto overflow-x-scroll">
         <thead class="border-b">
           <tr class="h-[50px]">
-            <th class="text-center"><i class="fa-regular fa-circle text-[14px]"></i></th>
+            <th class="text-center px-2"><i class="fa-regular fa-circle text-[14px]"></i></th>
             <th class="">Name</th>
             <th class="">Email</th>
+            <th class="">Name</th>
             <th class=" text-right pr-3">Action</th>
           </tr>
         </thead>
         <tbody>
           <tr class="h-[50px]">
-            <th class="py-2 text-center"><i class="fa-regular fa-circle text-[14px]"></i></th>
+            <th class="py-2 text-center px-2"><i class="fa-regular fa-circle text-[14px]"></i></th>
             <td>Kh Muhib</td>
             <td>nuhib@gmail.com</td>
-            <td class="text-right pr-3"><i class="fa-solid fa-ellipsis"></i></td>
-          </tr>
-          <tr class="h-[50px]">
-            <th class="py-2 text-center"><i class="fa-regular fa-circle text-[14px]"></i></th>
-            <td>Md Rezwan</td>
-            <td>rezwan@gmail.com</td>
-            <td class="text-right pr-3"><i class="fa-solid fa-ellipsis"></i></td>
-          </tr>
-          <tr class="h-[50px]">
-            <th class="py-2 text-center"><i class="fa-regular fa-circle text-[14px]"></i></th>
-            <td>Md Khokon</td>
-            <td>khokon@gmail.com</td>
-            <td class="text-right pr-3"><i class="fa-solid fa-ellipsis"></i></td>
-          </tr>
-          <tr class="h-[50px]">
-            <th class="py-2 text-center"><i class="fa-regular fa-circle text-[14px]"></i></th>
             <td>Kh Muhib</td>
-            <td>nuhib@gmail.com</td>
-            <td class="text-right pr-3"><i class="fa-solid fa-ellipsis"></i></td>
-          </tr>
-          <tr class="h-[50px]">
-            <th class="py-2 text-center"><i class="fa-regular fa-circle text-[14px]"></i></th>
-            <td>Md Rezwan</td>
-            <td>rezwan@gmail.com</td>
-            <td class="text-right pr-3"><i class="fa-solid fa-ellipsis"></i></td>
-          </tr>
-          <tr class="h-[50px]">
-            <th class="py-2 text-center"><i class="fa-regular fa-circle text-[14px]"></i></th>
-            <td>Md Khokon</td>
-            <td>khokon@gmail.com</td>
             <td class="text-right pr-3"><i class="fa-solid fa-ellipsis"></i></td>
           </tr>
           

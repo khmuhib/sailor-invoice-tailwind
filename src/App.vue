@@ -1,12 +1,15 @@
 <template>
 
-    <div class="flex">
-        <SidebarComponent></SidebarComponent>
+    <div class="flex bg-[#F5F7F8]">
+        <div class="p-3 h-screen md:block hidden">
+            <SidebarComponent></SidebarComponent>
+        </div>
+        
         <div class="flex-1">
-            <div class="w-full py-[20px] shadow-sm bg-white">
+            <div class="w-full py-[20px]">
                 <TopbarComponent></TopbarComponent>
             </div>
-            <div class="shadow-sm h-full bg-gray-50">
+            <div class="h-auto mx-3">
                 <router-view></router-view>
             </div>
 
@@ -73,5 +76,8 @@ export default {
 </script>
 
 <style scoped>
+
+
+
 
 </style>
